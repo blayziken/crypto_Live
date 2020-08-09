@@ -1,1 +1,1 @@
- A crypto currency price checking app.
+# A crypto currency price checking app.
